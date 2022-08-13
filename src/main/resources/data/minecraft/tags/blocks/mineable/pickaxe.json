@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "honkaicraft:blue_crystalyte_ore",
+    "honkaicraft:deepslate_blue_crystalyte_ore",
+    "honkaicraft:red_crystalyte_ore",
+    "honkaicraft:deepslate_red_crystalyte_ore",
+    "honkaicraft:purple_crystalyte_ore",
+    "honkaicraft:deepslate_purple_crystalyte_ore",
+    "honkaicraft:grey_crystalyte_ore",
+    "honkaicraft:deepslate_grey_crystalyte_ore"
+  ]
+}

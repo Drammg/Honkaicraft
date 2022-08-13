@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "honkaicraft:block/blue_crystalyte_ore"
+  }
+}

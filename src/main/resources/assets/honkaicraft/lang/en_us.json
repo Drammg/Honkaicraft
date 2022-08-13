@@ -1,0 +1,29 @@
+{
+  "item.honkaicraft.honkai_shard": "Honkai Shard",
+  "item.honkaicraft.honkai_cube": "Honkai Cube",
+  "item.honkaicraft.phantom_blue_crystalyte": "Phantom Blue Crystalyte",
+  "item.honkaicraft.phantom_red_crystalyte": "Phantom Red Crystalyte",
+  "item.honkaicraft.phantom_purple_crystalyte": "Phantom Purple Crystalyte",
+  "item.honkaicraft.phantom_grey_crystalyte": "Phantom Grey Crystalyte",
+  "item.honkaicraft.twilight_blue_crystalyte": "Twilight Blue Crystalyte",
+  "item.honkaicraft.twilight_red_crystalyte": "Twilight Red Crystalyte",
+  "item.honkaicraft.twilight_purple_crystalyte": "Twilight Purple Crystalyte",
+  "item.honkaicraft.twilight_grey_crystalyte": "Twilight Grey Crystalyte",
+  "item.honkaicraft.chasmic_blue_crystalyte": "Chasmic Blue Crystalyte",
+  "item.honkaicraft.chasmic_red_crystalyte": "Chasmic Red Crystalyte",
+  "item.honkaicraft.chasmic_purple_crystalyte": "Chasmic Purple Crystalyte",
+  "item.honkaicraft.chasmic_grey_crystalyte": "Chasmic Grey Crystalyte",
+  "item.honkaicraft.eight_ball": "Eight Ball",
+
+
+  "block.honkaicraft.blue_crystalyte_ore": "Blue Crystalyte Ore",
+  "block.honkaicraft.deepslate_blue_crystalyte_ore": "Deepslate Blue Crystalyte Ore",
+  "block.honkaicraft.red_crystalyte_ore": "Red Crystalyte Ore",
+  "block.honkaicraft.deepslate_red_crystalyte_ore": "Deepslate Red Crystalyte Ore",
+  "block.honkaicraft.purple_crystalyte_ore": "Purple Crystalyte Ore",
+  "block.honkaicraft.deepslate_purple_crystalyte_ore": "Deepslate Purple Crystalyte Ore",
+  "block.honkaicraft.grey_crystalyte_ore": "Grey Crystalyte Ore",
+  "block.honkaicraft.deepslate_grey_crystalyte_ore": "Deepslate Grey Crystalyte Ore",
+
+  "itemGroup.honkaicraft.honkai_materials": "Honkai Materials"
+}

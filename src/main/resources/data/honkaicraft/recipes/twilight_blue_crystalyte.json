@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "honkaicraft:phantom_blue_crystalyte"
+    }
+  },
+  "result": {
+    "item": "honkaicraft:twilight_blue_crystalyte"
+  }
+}

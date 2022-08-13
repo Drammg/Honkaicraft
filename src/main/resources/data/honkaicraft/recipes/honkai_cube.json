@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+
+  "ingredients": [
+    {
+      "item": "honkaicraft:honkai_shard"
+    },{
+      "item": "honkaicraft:honkai_shard"
+    },{
+      "item": "honkaicraft:honkai_shard"
+    }
+  ],
+  "result": {
+    "item": "honkaicraft:honkai_cube"
+  }
+}
